@@ -1,1 +1,1 @@
-# That's gonna be first lecture about processes in C
+# Some code in C
